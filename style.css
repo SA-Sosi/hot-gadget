@@ -3,9 +3,58 @@
   
 }
 .orange-bg{
-    background-color: white;
-   border-radius: 10px;
+    background-color: rgb(245, 188, 245);
 }
 .carousel-item{
     padding: 20px 40px;
 }
+.buy-now-button{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+   
+}
+.link{
+    color: rgb(238, 76, 238);
+    
+}
+.link1{
+    color: orange;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat1{
+    margin: 10px;
+
+}
+.rad{
+    border-radius: 0px 40px 0px 40px;
+} 
+.rad1{
+    border-radius: 40px 0px 40px 0px;
+}
+
+/* catagories er nicher box er style */
+.ptagstyle{
+    background-color: orange;
+    width: 100px;
+    height: 12px;
+    border: none;
+    border-radius: 20px;
+     /* Center horizontally*/
+   margin:auto; 
+  } 
+
+
+  /* categories */
+  .bgdesign{
+    background-color: whitesmoke;
+    width: 210px;
+    height: 200px;
+    margin-bottom: 40px;
+    padding: 40px;
+    box-shadow: 2px 3px 10px gray;
+  }
+ 
+
